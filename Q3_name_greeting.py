@@ -1,4 +1,4 @@
-# Write a program that takes your name as input and prints a greeting.
+# Write a program that takes your name as input and prints a greeting. 
 
 
 name = input("Enter your name: ")
