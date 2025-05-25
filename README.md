@@ -1,4 +1,5 @@
-# BADUPython-Practical-2025
+# Basic Application Development Using Python
+(BADUPython-Practical-2025)
 
 Practical codes for BADUP – Basic Application Development Using Python (2025).
 
