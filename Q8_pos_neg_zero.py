@@ -1,4 +1,4 @@
-# Write a program to check whether a number is positive, negative, or zero.
+# Write a program to check whether a number is positive, negative, or zero. 
 
 
 A = int(input("enter a number"))
