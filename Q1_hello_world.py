@@ -1,4 +1,4 @@
-# Write a python program that prints "Hello World"?
+# Write a python program that prints "Hello World".
 
 
 print("Hello world")
