@@ -1,4 +1,4 @@
-# Write a program that finds the larger of two numbers.
+# Write a program that finds the larger of two numbers. 
 
 
 A = int(input("enter first number"))
